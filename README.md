@@ -6,7 +6,7 @@
 <h4 align="center"><ins>**We request you to kindly check all the available branches**</ins></h2>
 <div align="left">
 
-[Symbl.ai](https://symbl.ai/)
+[Symblai](https://symbl.ai/)
   
 </div>
 <h3 align="left"> Our Problem Statements </h3>
