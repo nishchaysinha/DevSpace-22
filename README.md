@@ -4,8 +4,8 @@
 <h2 align="center">Étudie App</h2>
 </div>
 
-<h3 align="center">What's our project?</h3>
-<div align="center">
+<h3 align="left">What's our project?</h3>
+<div align="left">
 
   ⚪️ - A singular solution to help Professionals and Teachers collaborate.
   
