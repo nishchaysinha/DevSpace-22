@@ -1,17 +1,23 @@
-<h1 align="center">💫DevSpace-22💫</h1>
+<h1 align="center">🚀DevSpace-22🚀</h1>
 <div align="center">
-<img width="30%" src="https://media.discordapp.net/attachments/964219837314400327/964316361063039026/unknown-modified_4.png" alt="cover" />
+<img width="20%" src="https://media.discordapp.net/attachments/964219837314400327/964316361063039026/unknown-modified_4.png" alt="cover" />
 <h2 align="center">Étudie App</h2>
 </div>
-
-<h3 align="left">What's our project?</h3>
+<h3 align="left"> Our Problem Statement </h3>
+<div align="left">
+<div align="left"> The pandemic has taught us that online learning is here to stay. Develop collaboration tools which can allow people to study together
+or teach by facilitating video calls, common jam boards, shared media access controls and various other tools.
+  </div>
+<h3 align="left"> Our Project Provides </h3>
 <div align="left">
 
   ⚪️ - Singular solution to help Professionals and Teachers collaborate.
   
   ⚪️ - One stop cross platform solution for collaborating on art projects to collaborating on programming tasks in real time.
   
-  ⚪️ - Solution to most inconveniences while working over the internet. 
+  ⚪️ - Solution to most inconveniences while working over the internet. </br></br>
+<p align="center">
+<img width="65%" src="https://cdn.discordapp.com/attachments/964219837314400327/964291322020266054/Draft_1.png" alt="cover" /></p></br>
   
 </div>
 
@@ -26,16 +32,24 @@
   [These features are easily customizable and can be customized according to what a user needs because of our heavily modular application.]
   
 </div>
-<h1>Progress up until now:</h1>
+<h1 align="center">Étudie </h1>
 <div>
-  <h2>-We've created mockups of the user interface(Created in Figma)</h2>
-  <img width="100%" src="https://cdn.discordapp.com/attachments/964219837314400327/964291322020266054/Draft_1.png" alt="cover" />
-  <img width="100%" src="https://cdn.discordapp.com/attachments/964219837314400327/964291697905401877/Draft_2.png" alt="cover" />
-  <img width="100%" src="https://cdn.discordapp.com/attachments/964219837314400327/964362568275726396/Draft_2.png" alt="cover" />
-  <img width="100%" src="https://cdn.discordapp.com/attachments/964219837314400327/964364701888815104/Draft_1.png" alt="cover" />
   
-  <h2>-We've created some of the core functionalities:</h2>
-  <h3>Collaborative Drawingboard</h3>
-  <img width="100%" src="https://cdn.discordapp.com/attachments/964369189919916052/964369244529786940/Untitled.gif" alt="cover" />
+  <!-- <img width="100%" src="https://cdn.discordapp.com/attachments/964219837314400327/964291697905401877/Draft_2.png" alt="cover" /> -->
+  <h3 align="center"> Brainstorm on various ideas effortlessly and with realtime collaboration </h3>
+  <p align="center">
+  <img width="65%" src="https://cdn.discordapp.com/attachments/964219837314400327/964362568275726396/Draft_2.png" alt="cover" />
+  </p>
+  <h2 align="center">Our Core Features Include</h2>
+  <h3 align="center">1. Collaborative Drawingboard</h3>
+  <p align="center">
+  <img width="80%" src="https://cdn.discordapp.com/attachments/964369189919916052/964369244529786940/Untitled.gif" alt="cover" />
+  </p>
+  <h3 align="center">2. Close all the other code editors and collab on one !!!<br>
+    We've made coding much easier for you </h3>
+  <p align="center">
+  <img width="65%" src="https://cdn.discordapp.com/attachments/964219837314400327/964364701888815104/Draft_1.png" alt="cover" />
+  </p>
+ 
 
 </div>
