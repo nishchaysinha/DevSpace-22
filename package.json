@@ -1,0 +1,13 @@
+{
+    "name": "Collaborative Whiteboard",
+    "description": "WhiteBoard",
+    "version": "0.0.1",
+    "dependencies": {
+        "cookie-parser": "^1.4.6",
+        "ejs": "^2.3.3",
+        "express": "",
+        "express-session": "^1.17.2",
+        "multer": "^1.4.4",
+        "socket.io": ""
+    }
+}

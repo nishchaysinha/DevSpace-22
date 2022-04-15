@@ -1,0 +1,69 @@
+<html>
+
+<head>
+    <title> Collaborative Whiteboard </title>
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/login.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+</head>
+
+<body>
+
+    <nav class="navbar navbar-inverse">
+      <div class="container-fluid">
+        <div class="navbar-header">
+            <img src="images/logo.png" height="40" width="40" class="pull-left" style="margin-top: 5px;" />
+            <a class="navbar-brand" href="#" style="margin-left:2px">Collaborative Whiteboard</a>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container">    
+        <div id="anim">
+        </div>
+        <br>
+        <p class="lead">Share the whiteboard with your friends, team, students.</p>  
+        <p class="lead">Create a room and invite others to join. Different brushes and shapes for different purposes. Chat feature to communicate with your team. </p>      
+        <br>
+        <button type="button" class="btn btn-success btn-lg" data-toggle="modal" data-target="#modal">Create or Join room</button>      
+
+        <br>
+        <br>
+
+        <%if(visibility){%>
+            <div class="alert alert-danger" role="alert" style="visibility:<%=visibility%>">
+                <%if(msg){%>
+                    <%=msg%>
+                <%}%>
+            </div>
+        <%}%>
+
+        <div id="background"></div> 
+    </div>
+
+    
+
+<div class="modal fade" tabindex="-1" role="dialog" id="modal">
+    <div class="modal-dialog modal-sm" role="document">
+        <div class="modal-content" style="padding: 10px;">            
+            <p class="lead">Create or Join Room</p>
+            <hr>
+            <form method="post" action="/login">            
+                <input class="form-control" type="text" placeholder="Username" name="username" />
+                <br>
+                <input class="form-control" type="text" placeholder="Roomname" name="roomname" />
+                <br>
+                <button type="submit" class="btn btn-info">Proceed</button>  
+            </form>
+               
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    
+</body>
+
+</html>
