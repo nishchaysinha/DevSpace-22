@@ -28,7 +28,8 @@
 </div>
 <h1>Progress up until now:</h1>
 <div>
-  <h2>-We've prototyped the user interface(Created in [Figma](https://www.figma.com/))</h2>
+  <h2>-We've prototyped the user interface(Created in Figma)</h2>
   <img width="100%" src="https://cdn.discordapp.com/attachments/964219837314400327/964291322020266054/Draft_1.png" alt="cover" />
+  <img width="100%" src="https://cdn.discordapp.com/attachments/964219837314400327/964291697905401877/Draft_2.png" alt="cover" />
 
 </div>
