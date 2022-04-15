@@ -33,5 +33,9 @@
   <img width="100%" src="https://cdn.discordapp.com/attachments/964219837314400327/964291697905401877/Draft_2.png" alt="cover" />
   <img width="100%" src="https://cdn.discordapp.com/attachments/964219837314400327/964362568275726396/Draft_2.png" alt="cover" />
   <img width="100%" src="https://cdn.discordapp.com/attachments/964219837314400327/964364701888815104/Draft_1.png" alt="cover" />
+  
+  <h2>-We've created some of the core functionalities:</h2>
+  <h3>Collaborative Drawingboard</h3>
+  <img width="100%" src="https://cdn.discordapp.com/attachments/964369189919916052/964369244529786940/Untitled.gif" alt="cover" />
 
 </div>
