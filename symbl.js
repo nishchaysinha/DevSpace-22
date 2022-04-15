@@ -1,5 +1,5 @@
 
-const accessToken = 'AUTH_TOKEN';
+const accessToken = '395f32734d3171747631626b34525763544d796562673433394b35554c7a5751527959455a364c43487854753659663667494866534942476c51633779663768';
 // Refer to the Authentication section for how to generate the accessToken: https://docs.symbl.ai/docs/developer-tools/authentication
 const uniqueMeetingId = btoa("nishchay.space@gmail.com"); // btoa will take a string and generate a unique ID
 const symblEndpoint = `wss://api.symbl.ai/v1/realtime/insights/${uniqueMeetingId}?access_token=${accessToken}`;
