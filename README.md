@@ -11,7 +11,7 @@ or teach by facilitating video calls, common jam boards, shared media access con
   </div>
   <div align="left"> <h4>III.</h4> Integration of Major League Hacking's Auth0 Authentication in the project.
   </div>
-<h3 align="left"> Our Project Provides </h3>
+<h3 align="left"> Our Project Solutions </h3>
 <div align="left">
 
   ⚪️ - Singular solution to help Professionals and Teachers collaborate.
