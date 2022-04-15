@@ -2,6 +2,51 @@
 <head> 
   <title>Étudie</title>
   <link href="https://fonts.googleapis.com/css?family=Nunito:400,600,700" rel="stylesheet">
-  <link rel="stylesheet" href="style.css" />
-</head>  
+  <link rel="stylesheet" href="main.css" />
+  <style>
+  h3 {text-align: center; color: white;}
+  h2 {text-align: center;}
+  h1 {text-align: center;}
+</style>
+</head> 
+<body>
+  
+    <div id="user_div" class="loggedin-div">
+    
+    <h3 class='whiteTextOverride'>* generic Ecommerce webapp *</h3>
+    <p id="user_para" class='whiteTextOverride'>Holds welcome user para</p>
+    <a href="pagination_demo/store.html"><button>Buy</button></a>
+    <br>
+    <br>
+    <br>
+    <button class="btn" onclick="openForm()">Sell</button>
+
+    <div class="form-popup" id="myForm">
+      <form onsubmit="closeForm()" class="form-container">
+        <h1>Create Listing</h1>
+    
+        <label><b>Item Name</b></label>
+        <input type="text" placeholder="Name of Item" class="itemName">
+    
+        <label><b>Item Price</b></label>
+        <input type="text" placeholder="Price of Items" class="itemPrice">
+
+        <label><b>Item Picture URL</b></label>
+        <input type="text" placeholder="Enter Image URL" class="imgURL">
+    
+        <button type="submit" class="btn" onclick="sellListing()">Create Listing</button>
+        <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+      </form>
+    </div>
+    <br>
+    <br>
+    <br>
+    <button onclick="logout()">Logout</button>
+  </div>
+  
+  
+  
+  
+  
+</body>
 </html>
