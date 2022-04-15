@@ -52,7 +52,7 @@ or teach by facilitating video calls, common jam boards, shared media access con
   <h2 align="center">Our Core Features Include</h2>
   <h3 align="center">1. Collaborative Drawingboard</h3>
   <p align="center">
-  <img width="80%" src="https://cdn.discordapp.com/attachments/964369189919916052/964369244529786940/Untitled.gif" alt="cover" />
+  <img width="80%" src="https://media.discordapp.net/attachments/964369189919916052/964610889607180368/unknown.png?width=1306&height=662" alt="cover" />
   </p>
   <h3 align="center">2. Close all the other code editors and collab on one !!!<br>
     We've made coding much easier for you </h3>
