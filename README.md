@@ -26,3 +26,7 @@
   [These features are easily customizable and can be customized according to what a user needs because of our heavily modular application.]
   
 </div>
+<div>
+  balls
+
+</div>
