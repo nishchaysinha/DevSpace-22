@@ -3,10 +3,13 @@
 <img width="20%" src="https://media.discordapp.net/attachments/964219837314400327/964316361063039026/unknown-modified_4.png" alt="cover" />
 <h2 align="center">Étudie App</h2>
 </div>
-<h3 align="left"> Our Problem Statement </h3>
+<h3 align="left"> Our Problem Statements </h3>
 <div align="left">
-<div align="left"> The pandemic has taught us that online learning is here to stay. Develop collaboration tools which can allow people to study together
-or teach by facilitating video calls, common jam boards, shared media access controls and various other tools.
+  <div align="left"> <h4>I.</h4> The pandemic has taught us that online learning is here to stay. Develop collaboration tools which can allow people to study together
+or teach by facilitating video calls, common jam boards, shared media access controls and various other tools.</div>
+  <div align="left"> <h4>II.</h4> Integrate Symbl.ai's conversation intelligence APIs into the project.
+  </div>
+  <div align="left"> <h4>III.</h4> Integration of Major League Hacking's Auth0 Authentication in the project.
   </div>
 <h3 align="left"> Our Project Provides </h3>
 <div align="left">
