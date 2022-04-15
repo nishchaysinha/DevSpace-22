@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+    font-size: 50% !important;
+}
+
+.navbar{
+    border-radius: 00px !important;
+    background-color: #19be0d;
+    color: rgb(2, 49, 7);
+}
+
+.title {
+    margin-top: 50px;
+    color: #044603;
+    background-color: #073b03;
+    font-size: 70px;
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+input[type=text] {     
+    text-align: center;
+}
+
+.alert {
+   width: 300px !important;
+   margin: 0 auto;    
+}
+
+#background{
+    position: absolute;
+    bottom: 70px;    
+    background-image: url("../images/IMG_0059.jpg");
+    background-size: cover;
+    background-color: rgb(96, 218, 114);
+    height: 250px;
+    width: 400px;
+    z-index: -1;
+    opacity: 0.5;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+}
+
+#modal{
+    margin-top: 150px;
+}
+
+button{
+    outline: none;
+}
+
+button:focus{
+    outline: none;
+}
+
+
