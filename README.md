@@ -4,4 +4,4 @@
 <h2 align="center">Étudie App</h2>
 </div>
 
-<h2 align="center"></h2>
+<h3 align="center">What we aim to solve?</h3>
