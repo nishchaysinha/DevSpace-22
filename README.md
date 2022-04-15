@@ -5,7 +5,7 @@
 </div>
 <h4 align="center"><ins>**We request you to kindly check all the available branches**</ins></h2>
 <div>
-  [video-calling-branch](https://github.com/nishchaysinha/DevSpace-22/tree/videocalling)
+  [videoCallingBranch](https://github.com/nishchaysinha/DevSpace-22/tree/videocalling)
 </div>
 <h3 align="left"> Our Problem Statements </h3>
 <div align="left">
