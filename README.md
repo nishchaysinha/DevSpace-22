@@ -11,7 +11,7 @@
   ⚪️ - Seamless End-to-End Video Calling<br><br>
   
   
-  ⚪️ - Developed using [Agora.io](https://www.agora.io/)<br>
+  ⚪️ - Developed using [Agora.io](https://www.agora.io/) to ensure a reliable communication channel<br>
  
   ⚪️ - Transcription using [Symbl.ai](https://symbl.ai/)<br>
   <h2 align="center">Glimpse of our features</h2>
