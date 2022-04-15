@@ -7,11 +7,10 @@
 <h3 align="left">What's our project?</h3>
 <div align="left">
 
-  ⚪️ - A singular solution to help Professionals and Teachers collaborate.
+  ⚪️ - Singular solution to help Professionals and Teachers collaborate.
   
-  ⚪️ - A one stop cross platform solution for collaborating on art projects to collaborating on programming tasks in real time.
+  ⚪️ - One stop cross platform solution for collaborating on art projects to collaborating on programming tasks in real time.
   
-  ⚪️ - solves 
+  ⚪️ - Solution to most inconveniences while working over the internet. 
   
-
 </div>
