@@ -32,6 +32,6 @@
   <img width="100%" src="https://cdn.discordapp.com/attachments/964219837314400327/964291322020266054/Draft_1.png" alt="cover" />
   <img width="100%" src="https://cdn.discordapp.com/attachments/964219837314400327/964291697905401877/Draft_2.png" alt="cover" />
   <img width="100%" src="https://cdn.discordapp.com/attachments/964219837314400327/964362568275726396/Draft_2.png" alt="cover" />
-  <img width="100%" src="https://cdn.discordapp.com/attachments/964219837314400327/964364701888815104/Draft_1.png alt="cover" />
+  <img width="100%" src="https://cdn.discordapp.com/attachments/964219837314400327/964364701888815104/Draft_1.png" alt="cover" />
 
 </div>
