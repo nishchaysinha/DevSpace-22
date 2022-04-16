@@ -1,4 +1,4 @@
-const APP_ID = "28ca26d9a7eb414690b98fba6f763a8a"
+const APP_ID = "e2d63a2920614237b228acbaae5eee24"
 const TOKEN = "006e2d63a2920614237b228acbaae5eee24IADOvudjF4MYXTzvpoAprTmVeWBhv9Rzj56gYDn9M9nlcGTNKL8AAAAAEACDdLwQiAtcYgEAAQCIC1xi"
 const CHANNEL = "main"
 
