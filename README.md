@@ -36,7 +36,7 @@ or teach by facilitating video calls, common jam boards, shared media access con
   
   ⚪️ - Solution to most inconveniences while working over the internet. </br></br>
 <p align="center">
-<img width="65%" src="https://media.discordapp.net/attachments/964369189919916052/964833893385637948/Screenshot_2022-04-16_155218.jpg?width=1314&height=663" alt="cover" /></p></br>
+<img width="80%" src="https://media.discordapp.net/attachments/964369189919916052/964833893385637948/Screenshot_2022-04-16_155218.jpg?width=1314&height=663" alt="cover" /></p></br>
   
 </div>
 
