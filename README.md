@@ -5,8 +5,14 @@
 </div>
 
 <h4 align="center"><ins>**We request you to kindly check all the available branches**</ins></h2>
-<p align="center">The main page handles all the Authorization Services[Auth0](https://auth0.com)
-  </p>
+<div align="center">
+
+  
+   The main branch contains Authentication Services(using [Auth0](https://auth0.com/)) 
+  
+  
+  
+</div>
 <div align="center">
 
 [VideoCalling-Branch](https://github.com/nishchaysinha/DevSpace-22/tree/videocalling)<br>
