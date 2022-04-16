@@ -4,7 +4,8 @@
 
 <h2>
 
-  [Deployment Here](https://devspace-calling.herokuapp.com/)
+  [Deployment Here](https://devspace-calling.herokuapp.com/)<br>
+  [Download pdf Here](https://github.com/nishchaysinha/DevSpace-22/raw/main/DevSpace-22%20(1).pdf)
   </h2></div>
 <div align="center">
 <img width="20%" src="https://media.discordapp.net/attachments/964219837314400327/964316361063039026/unknown-modified_4.png" alt="cover" />
