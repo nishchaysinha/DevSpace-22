@@ -101,6 +101,23 @@ function doc() {
     var x = document.getElementById("document");
     if (x.style.display === "none") {
       x.style.display = "block";
+      var iframe = document.getElementById('gdocs');
+      iframe.src = iframe.src;
+    } else {
+      x.style.display = "none";
+    }
+  }
+
+  function delay(time) {
+    return new Promise(resolve => setTimeout(resolve, time));
+  }
+  
+
+  function colab() {
+    var x = document.getElementById("e-colab");
+    if (x.style.display === "none") {
+      x.style.display = "block";
+      
     } else {
       x.style.display = "none";
     }

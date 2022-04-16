@@ -12,10 +12,19 @@
     <button id="join-btn">Join Stream</button>
 
     <div id="stream-wrapper">
-        <div id="document">
-        <iframe src="https://docs.google.com/document/d/1YBCj6TblrcvUqJKjtk5ecwQMeoRxFI0d/edit?usp=sharing&ouid=103403883543630679584&rtpof=true&sd=true" align="right" width="40%" height="700px"></iframe>
+        <div id="document"  style="display: block;">
+        <iframe id="gdocs" src="https://docs.google.com/document/d/13YqGbVWrqMsk2X7IWSnL5wxG-gLG7S3256MZNv5QNCc/edit?usp=sharing" align="right" width="62%" height="700px"></iframe>
         </div>
-        <div id="video-streams"  style="width:800px; margin:auto 0;"></div>
+        <div id="e-colab"  style="display: block;">
+            <iframe id="ecolab" src="https://devspace-ecolab.herokuapp.com/" align="right" width="62%" height="700px"></iframe>
+        </div>
+        <script>
+        var x = document.getElementById("document");
+        var y = document.getElementById("e-colab");
+        x.style.display = "none";
+        y.style.display = "none";
+        </script>
+        <div id="video-streams"  style="width: 450px; margin:auto 0;"></div>
 
         
 
@@ -23,7 +32,8 @@
             <button id="leave-btn">Leave Stream</button>
             <button id="mic-btn">Mic On</button>
             <button id="camera-btn">Camera on</button>
-            <button id="collab" onclick="doc()">Collab Board</button>
+            <button id="gdocs" onclick="doc()">Document Editor</button>
+            <button id="collab" onclick="colab()">JamBoard</button>
         </div>
         
     </div>
