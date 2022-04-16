@@ -1,7 +1,7 @@
 body{
     background:#2c4e1a;
-    background:-webkit-linear-gradient(to right, #2c643a, #1f8537, #17432a) ;
-    background: linear-gradient(to right, #2c644d, #204325, #0f2719);
+    background:-webkit-linear-gradient(to right, #77b987, #59d175, #bee5cf) ;
+    background: linear-gradient(to right, #50B5D7, #067D68);
 }
 
 #join-btn{
@@ -11,8 +11,11 @@ body{
     margin-top:-50px;
     margin-left:-100px;
     font-size:18px;
+    color: #50B5D7;
     padding:20px 40px;
     border-radius: 30px;
+    background-color: #fff;
+    overflow: hidden
 }
 
 #video-streams{
@@ -22,6 +25,7 @@ body{
     width: 1400px;
     margin:0 auto;
     border-radius: 30px;
+    overflow: hidden
 }
 
 .video-container{
@@ -29,12 +33,14 @@ body{
     border: 2px solid black;
     background-color: #203A49;
     border-radius: 30px;
+    overflow: hidden
 }
 
 .video-player{
     height: 100%;
     width: 100%;
     border-radius: 30px;
+    overflow: hidden
 }
 
 button{
@@ -46,6 +52,7 @@ button{
     margin:2px;
     cursor: pointer;
     border-radius: 30px;
+    overflow: hidden
 }
 
 #stream-controls{
@@ -60,5 +67,6 @@ button{
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
         width: 95%;
         border-radius: 30px;
+        overflow: hidden
     }
 }

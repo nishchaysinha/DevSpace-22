@@ -17,8 +17,8 @@ let joinAndDisplayLocalStream = async () => {
 
     localTracks = await AgoraRTC.createMicrophoneAndCameraTracks() 
 
-    let player = `<div class="video-container" id="user-container-${UID}">
-                        <div class="video-player" id="user-${UID}"></div>
+    let player = `<div class="video-container" id="user-container-${UID}"  style="border-radius: 30px; overflow: hidden">
+                        <div class="video-player" id="user-${UID}" style="border-radius: 30px; overflow: hidden"></div>
                   </div>`
     document.getElementById('video-streams').insertAdjacentHTML('beforeend', player)
 
@@ -43,8 +43,8 @@ let handleUserJoined = async (user, mediaType) => {
             player.remove()
         }
 
-        player = `<div class="video-container" id="user-container-${user.uid}">
-                        <div class="video-player" id="user-${user.uid}"></div> 
+        player = `<div class="video-container" id="user-container-${user.uid}" style="border-radius: 30px; overflow: hidden">
+                        <div class="video-player" id="user-${user.uid}" style="border-radius: 30px; overflow: hidden"></div> 
                  </div>`
         document.getElementById('video-streams').insertAdjacentHTML('beforeend', player)
 
@@ -113,8 +113,8 @@ function doc() {
   }
   
 
-  function colab() {
-    var x = document.getElementById("e-colab");
+  function jamboard() {
+    var x = document.getElementById("jamboard");
     if (x.style.display === "none") {
       x.style.display = "block";
       

@@ -13,31 +13,31 @@
 
     <div id="stream-wrapper">
         <div id="document"  style="display: block;">
-        <iframe id="gdocs" src="https://docs.google.com/document/d/13YqGbVWrqMsk2X7IWSnL5wxG-gLG7S3256MZNv5QNCc/edit?usp=sharing" align="right" width="62%" height="700px"></iframe>
+        <iframe id="gdocs" src="https://docs.google.com/document/d/13YqGbVWrqMsk2X7IWSnL5wxG-gLG7S3256MZNv5QNCc/edit?usp=sharing" align="right" width="62%" height="650px"></iframe>
         </div>
-        <div id="e-colab"  style="display: block;">
-            <iframe id="ecolab" src="https://devspace-ecolab.herokuapp.com/" align="right" width="62%" height="700px"></iframe>
+        <div id="jamboard"  style="display: block;">
+            <iframe id="ecolab" src="https://devspace-ecolab.herokuapp.com/" align="right" width="62%" height="650px"></iframe>
         </div>
         <script>
         var x = document.getElementById("document");
-        var y = document.getElementById("e-colab");
+        var y = document.getElementById("jamboard");
         x.style.display = "none";
         y.style.display = "none";
         </script>
-        <div id="video-streams"  style="width: 450px; margin:auto 0;"></div>
+        <div id="video-streams"  style="width: 450px; margin:auto 0;  border-radius: 30px;"></div>
 
         
 
-        <div id="stream-controls">
-            <button id="leave-btn">Leave Stream</button>
-            <button id="mic-btn">Mic On</button>
-            <button id="camera-btn">Camera on</button>
-            <button id="gdocs" onclick="doc()">Document Editor</button>
-            <button id="collab" onclick="colab()">JamBoard</button>
-        </div>
+        
         
     </div>
-
+    <div id="stream-controls">
+        <button id="leave-btn">Leave Stream</button>
+        <button id="mic-btn">Mic On</button>
+        <button id="camera-btn">Camera on</button>
+        <button id="gdocs" onclick="doc()">Document Editor</button>
+        <button id="jamboard" onclick="jamboard()">JamBoard</button>
+    </div>
 
 </body>
 <!-- <script src="https://download.agora.io/sdk/release/AgoraRTC_N.js"></script> -->
