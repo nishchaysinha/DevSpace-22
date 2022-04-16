@@ -9,7 +9,7 @@ body{
     top:50%;
     left:50%;
     margin-top:-50px;
-    margin-left:-100px;
+    margin-left:-90px;
     font-size:18px;
     color: #50B5D7;
     padding:20px 40px;
@@ -64,6 +64,8 @@ button{
     background-color: rgb(48, 48, 48);
     padding: 10px;
 }
+
+
 
 @media screen and (max-width:1400px){
     #video-streams{
