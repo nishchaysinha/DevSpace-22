@@ -12,15 +12,23 @@
     <button id="join-btn">Join Stream</button>
 
     <div id="stream-wrapper">
-        <div id="video-streams"></div>
+        <div id="document">
+        <iframe src="https://docs.google.com/document/d/1YBCj6TblrcvUqJKjtk5ecwQMeoRxFI0d/edit?usp=sharing&ouid=103403883543630679584&rtpof=true&sd=true" align="right" width="40%" height="700px"></iframe>
+        </div>
+        <div id="video-streams"  style="width:800px; margin:auto 0;"></div>
+
+        
 
         <div id="stream-controls">
             <button id="leave-btn">Leave Stream</button>
             <button id="mic-btn">Mic On</button>
             <button id="camera-btn">Camera on</button>
+            <button id="collab" onclick="doc()">Collab Board</button>
         </div>
+        
     </div>
-    
+
+
 </body>
 <!-- <script src="https://download.agora.io/sdk/release/AgoraRTC_N.js"></script> -->
 <script src="AgoraRTC_N-4.7.3.js"></script>
