@@ -16,7 +16,7 @@
 <div align="center">
 
   
-   The main branch contains Authentication Services (using [Auth0](https://auth0.com/)) 
+   The main branch contains Authentication Services(using [Auth0](https://auth0.com/)) 
   
   
   
